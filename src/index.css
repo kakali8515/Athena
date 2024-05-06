@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@font-face {
+    font-family: "Pretendard";
+    src: url("./assets/font/fonts/public/static/Pretendard-Black.otf");
+    src: url("./assets/font/fonts/public/static/Pretendard-Bold.otf");
+    src: url("./assets/font/fonts/public/static/Pretendard-ExtraBold.otf");
+    src: url("./assets/font/fonts/public/static/Pretendard-ExtraLight.otf");
+    src: url("./assets/font/fonts/public/static/Pretendard-Light.otf");
+    src: url("./assets/font/fonts/public/static/Pretendard-Medium.otf");
+    src: url("./assets/font/fonts/public/static/Pretendard-Regular.otf");
+    src: url("./assets/font/fonts/public/static/Pretendard-SemiBold.otf");
+    src: url("./assets/font/fonts/public/static/Pretendard-Thin.otf");
+  }
